@@ -35,12 +35,13 @@ Son olarak **leJOS ev3 installer**'ı indirmeniz lazım.
 Sd karta yükleme gerçekleştikten sonra sd kartı ev3'e takıp ev3 ü açalım. Bir ekran gelecek. Yeterince bekleyince ev3 açılacaktır.(uzun sürebilir)
 ## Bilgisayara Eclipse Kurulması
 **Eclipse** açık kaynak bir **IDE**(integrated development environment). Eclipse'e **leJOS eklentilerini** yükledikten sonra robotumuza kod yazıp atabileceğiz.
-	* [Eclipse](http://www.eclipse.org/downloads/packages/release/photon/r/eclipse-ide-java-developers)
-	* Yanda **Windows 64-bit**'e tıklayıp, gelen sayfada da **Download**'a tıklayıp indirmenizi başlatabilirsiniz.
-	* **Eclipse**'i çalıştırın.
-	* Eğer bilgisayarınızda java yüklü olmamasıyla alakalı bir hata mesajı geliyorsa **Bilgisayara java jre ve jdk yüklenmesi** kısmını bir daha okuyun.
+* [Eclipse](http://www.eclipse.org/downloads/packages/release/photon/r/eclipse-ide-java-developers)
+* Yanda **Windows 64-bit**'e tıklayıp, gelen sayfada da **Download**'a tıklayıp indirmenizi başlatabilirsiniz.
+*  **Eclipse**'i çalıştırın.
+*  Eğer bilgisayarınızda java yüklü olmamasıyla alakalı bir hata mesajı geliyorsa **Bilgisayara java jre ve jdk yüklenmesi** kısmını bir daha okuyun.
 ## Eclipse Eklentilerinin Yüklenmesi
 * **Eclipse**'i açtıktan sonra yukarıdan help->install new software kısmına geldikten sonra **add** butonuna tıklayın.
 * Çıkan menüde name kısmına **EV3 LEJOS PLUGINS**, location kısmına **http://lejos.sourceforge.net/tools/eclipse/plugin/ev3** yazın.
 * Çıkan sorulara evet diyin.
 ## Ev3'e Program Atma ve Yararlı Kaynaklar
+	
